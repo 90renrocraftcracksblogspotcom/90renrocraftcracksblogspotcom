@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://c.tenor.com/c2RyybvuCF4AAAAC/tenor.gif" width="600" alt="Futuristic Tech GIF">
+  <img src="header.gif" width="600" alt="Futuristic Tech GIF">
 
   # Hello there! 👋
 
