@@ -3,7 +3,7 @@
 
   # Hello there! 👋
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Building+PezzAI.com;Developing+sentry.sec;Robotics+%26+AI+Enthusiast;Physics+Simulation+Nerd)]()
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Building+Zydit.in;Developing+sentry.sec;Robotics+%26+AI+Enthusiast;Physics+Simulation+Nerd)]()
 </div>
 
 ---
