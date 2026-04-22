@@ -3,14 +3,14 @@
 
   # Hello there! 👋
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Building+Zydit.in;Developing+sentry.sec;Robotics+%26+AI+Enthusiast;Physics+Simulation+Nerd)]()
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Building+3D+Models;Developing+sentry.sec;Robotics+%26+AI+Enthusiast;Physics+Simulation+Nerd)]()
 </div>
 
 ---
 
 ### 🚀 About Me
 - 🧠 Exploring **Machine Learning, AI, and Physics Simulations**
-- 🔭 Currently building **PezzAI.com** and scaling my moderation bot, **sentry.sec**
+- 🔭 Completed **PezzAI.com** and scaling my moderation bot, **sentry.sec**
 - 🖥️ Setting up a 24/7 home server environment for APIs and bot hosting
 - 🍏 Developing primarily on **macOS** with a strict minimalist, dark-mode aesthetic
 - 🎓 Future B.Tech in **Robotics & AI**
