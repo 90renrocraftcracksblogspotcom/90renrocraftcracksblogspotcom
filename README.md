@@ -24,6 +24,8 @@
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-00273F?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite (React)" />
 </div>
 
 <br>
@@ -42,5 +44,5 @@
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=90renrocraftcracksblogspotcom&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=90renrocraftcracksblogspotcom&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=90renrocraftcracksblogspotcom&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=90renrocraftcracksblogspotcom&theme=tokyonight&hide_border=true&v=2" alt="GitHub Streak" />
 </div>
